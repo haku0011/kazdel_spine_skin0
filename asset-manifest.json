@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/kazdel_spine_skin0/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/kazdel_spine_skin0/static/js/main.b22c1ae5.chunk.js",
-    "main.js.map": "/kazdel_spine_skin0/static/js/main.b22c1ae5.chunk.js.map",
+    "main.js": "/kazdel_spine_skin0/static/js/main.d6274a7d.chunk.js",
+    "main.js.map": "/kazdel_spine_skin0/static/js/main.d6274a7d.chunk.js.map",
     "runtime-main.js": "/kazdel_spine_skin0/static/js/runtime-main.60947fcd.js",
     "runtime-main.js.map": "/kazdel_spine_skin0/static/js/runtime-main.60947fcd.js.map",
-    "static/js/2.86270098.chunk.js": "/kazdel_spine_skin0/static/js/2.86270098.chunk.js",
-    "static/js/2.86270098.chunk.js.map": "/kazdel_spine_skin0/static/js/2.86270098.chunk.js.map",
+    "static/js/2.3c19105d.chunk.js": "/kazdel_spine_skin0/static/js/2.3c19105d.chunk.js",
+    "static/js/2.3c19105d.chunk.js.map": "/kazdel_spine_skin0/static/js/2.3c19105d.chunk.js.map",
     "index.html": "/kazdel_spine_skin0/index.html",
     "static/css/main.6dea0f05.chunk.css.map": "/kazdel_spine_skin0/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.86270098.chunk.js.LICENSE.txt": "/kazdel_spine_skin0/static/js/2.86270098.chunk.js.LICENSE.txt"
+    "static/js/2.3c19105d.chunk.js.LICENSE.txt": "/kazdel_spine_skin0/static/js/2.3c19105d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.60947fcd.js",
-    "static/js/2.86270098.chunk.js",
+    "static/js/2.3c19105d.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.b22c1ae5.chunk.js"
+    "static/js/main.d6274a7d.chunk.js"
   ]
 }
